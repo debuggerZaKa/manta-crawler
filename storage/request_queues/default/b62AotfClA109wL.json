@@ -1,0 +1,9 @@
+{
+	"id": "b62AotfClA109wL",
+	"json": "{\"id\":\"b62AotfClA109wL\",\"url\":\"https://littlecaesars.com/en-us/store/9061\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/9061/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/9061\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mt96yhm/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 454-8774\",\"address\":\"4922 South Emerson Avenue Indianapolis, IN 46203\",\"website\":\"https://littlecaesars.com/en-us/store/9061\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:28:57.098Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/9061",
+	"url": "https://littlecaesars.com/en-us/store/9061"
+}

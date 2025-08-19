@@ -1,0 +1,9 @@
+{
+	"id": "qF3orHfEdCWtSLn",
+	"json": "{\"id\":\"qF3orHfEdCWtSLn\",\"url\":\"https://www.starbucks.com/store-locator/store/13216\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/13216\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7wm1p/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 271-6483\",\"address\":\"10209 East US Highway 36 Avon, IN 46123\",\"website\":\"https://www.starbucks.com/store-locator/store/13216\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099785773,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/13216",
+	"url": "https://www.starbucks.com/store-locator/store/13216"
+}

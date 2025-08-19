@@ -1,0 +1,9 @@
+{
+	"id": "3jxx5NCZwVkvMjl",
+	"json": "{\"id\":\"3jxx5NCZwVkvMjl\",\"url\":\"https://www.starbucks.com/store-locator/store/13776/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/13776\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r675/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 897-9165\",\"address\":\"9605 East Washington Street Indianapolis, IN 46229\",\"website\":\"https://www.starbucks.com/store-locator/store/13776/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099319895,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/13776",
+	"url": "https://www.starbucks.com/store-locator/store/13776/"
+}

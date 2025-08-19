@@ -1,0 +1,9 @@
+{
+	"id": "t551DizrWjRXTD6",
+	"json": "{\"id\":\"t551DizrWjRXTD6\",\"url\":\"https://littlecaesars.com/en-us/store/11113\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/11113/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/11113\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7wq9x/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 423-2579\",\"address\":\"2001 West Washington Street Indianapolis, IN 46222\",\"website\":\"https://littlecaesars.com/en-us/store/11113\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:27:27.237Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/11113",
+	"url": "https://littlecaesars.com/en-us/store/11113"
+}

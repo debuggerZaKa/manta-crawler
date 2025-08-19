@@ -1,0 +1,9 @@
+{
+	"id": "IQhyIJVZXmbaVKz",
+	"json": "{\"id\":\"IQhyIJVZXmbaVKz\",\"url\":\"https://www.manta.com/c/mk7wq9x/little-caesars-pizza\",\"loadedUrl\":\"https://www.manta.com/c/mk7wq9x/little-caesars-pizza\",\"uniqueKey\":\"https://www.manta.com/c/mk7wq9x/little-caesars-pizza\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:21:53.859Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mk7wq9x/little-caesars-pizza",
+	"url": "https://www.manta.com/c/mk7wq9x/little-caesars-pizza"
+}

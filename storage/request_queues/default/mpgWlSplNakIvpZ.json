@@ -1,0 +1,9 @@
+{
+	"id": "mpgWlSplNakIvpZ",
+	"json": "{\"id\":\"mpgWlSplNakIvpZ\",\"url\":\"https://www.manta.com/c/mk7rz75/starbucks\",\"loadedUrl\":\"https://www.manta.com/c/mk7rz75/starbucks\",\"uniqueKey\":\"https://www.manta.com/c/mk7rz75/starbucks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:23:15.378Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mk7rz75/starbucks",
+	"url": "https://www.manta.com/c/mk7rz75/starbucks"
+}

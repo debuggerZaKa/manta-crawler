@@ -1,0 +1,9 @@
+{
+	"id": "HPonRM1k4FGOcKG",
+	"json": "{\"id\":\"HPonRM1k4FGOcKG\",\"url\":\"https://japanesefoodindianapolis.com\",\"uniqueKey\":\"https://japanesefoodindianapolis.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1w3czz/sushi-den\",\"title\":\"Sushi Den\",\"phone\":\"(317) 597-4714\",\"address\":\"233 S Delaware St Indianapolis, IN 46225\",\"website\":\"https://japanesefoodindianapolis.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099570416,
+	"retryCount": 0,
+	"uniqueKey": "https://japanesefoodindianapolis.com",
+	"url": "https://japanesefoodindianapolis.com"
+}

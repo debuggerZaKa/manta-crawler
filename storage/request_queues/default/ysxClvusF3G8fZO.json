@@ -1,0 +1,9 @@
+{
+	"id": "ysxClvusF3G8fZO",
+	"json": "{\"id\":\"ysxClvusF3G8fZO\",\"url\":\"https://www.starbucks.com/store-locator/store/6918/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/6918\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz4t/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 889-1537\",\"address\":\"3925 East Southport Road Indianapolis, IN 46237\",\"website\":\"https://www.starbucks.com/store-locator/store/6918/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099320961,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/6918",
+	"url": "https://www.starbucks.com/store-locator/store/6918/"
+}

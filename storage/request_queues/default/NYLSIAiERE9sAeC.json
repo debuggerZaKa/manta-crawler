@@ -1,0 +1,9 @@
+{
+	"id": "NYLSIAiERE9sAeC",
+	"json": "{\"id\":\"NYLSIAiERE9sAeC\",\"url\":\"https://www.manta.com/c/m1rxmb1/the-med\",\"loadedUrl\":\"https://www.manta.com/c/m1rxmb1/the-med\",\"uniqueKey\":\"https://www.manta.com/c/m1rxmb1/the-med\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:37:55.162Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1rxmb1/the-med",
+	"url": "https://www.manta.com/c/m1rxmb1/the-med"
+}

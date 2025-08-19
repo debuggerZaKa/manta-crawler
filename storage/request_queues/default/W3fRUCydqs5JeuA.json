@@ -1,0 +1,9 @@
+{
+	"id": "W3fRUCydqs5JeuA",
+	"json": "{\"id\":\"W3fRUCydqs5JeuA\",\"url\":\"https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express\",\"loadedUrl\":\"https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express\",\"uniqueKey\":\"https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:41:25.363Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express",
+	"url": "https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express"
+}

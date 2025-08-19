@@ -1,0 +1,9 @@
+{
+	"id": "ATztQOoAsiFxxNz",
+	"json": "{\"id\":\"ATztQOoAsiFxxNz\",\"url\":\"https://www.manta.com/c/mtrg00g/india-palace-restaurant\",\"loadedUrl\":\"https://www.manta.com/c/mtrg00g/india-palace-restaurant\",\"uniqueKey\":\"https://www.manta.com/c/mtrg00g/india-palace-restaurant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:40:10.604Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mtrg00g/india-palace-restaurant",
+	"url": "https://www.manta.com/c/mtrg00g/india-palace-restaurant"
+}

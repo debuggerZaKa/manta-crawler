@@ -1,0 +1,70 @@
+{
+  "requestsFinished": 182,
+  "requestsFailed": 2,
+  "requestsRetries": 2,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 7,
+  "requestMinDurationMillis": 6232,
+  "requestMaxDurationMillis": 130673,
+  "requestTotalFailedDurationMillis": 3472,
+  "requestTotalFinishedDurationMillis": 3812179,
+  "crawlerStartedAt": "2025-08-13T15:19:37.714Z",
+  "crawlerFinishedAt": null,
+  "statsPersistedAt": "2025-08-13T15:45:38.228Z",
+  "crawlerRuntimeMillis": 1560887,
+  "crawlerLastStartTimestamp": 1755098377341,
+  "requestRetryHistogram": [
+    182,
+    null,
+    2
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": 1736,
+  "requestAvgFinishedDurationMillis": 20946,
+  "requestTotalDurationMillis": 3815651,
+  "requestsTotal": 184,
+  "requestsWithStatusCode": {
+    "200": 183,
+    "403": 3
+  },
+  "errors": {
+    "C:\\Users\\HP\\Downloads\\crawler\\node_modules\\puppeteer-core\\lib\\cjs\\puppeteer\\cdp\\Frame.js:184:27": {
+      "missing error code": {
+        "Error": {
+          "net::ERR_NAME_NOT_RESOLVED at http://www.jerusalemcafeindy.com": {
+            "count": 1
+          }
+        }
+      }
+    },
+    "C:\\Users\\HP\\Downloads\\crawler\\node_modules\\@crawlee\\basic\\internals\\basic-crawler.js:835:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "C:\\Users\\HP\\Downloads\\crawler\\node_modules\\puppeteer-core\\lib\\cjs\\puppeteer\\cdp\\Frame.js:184:27": {
+      "missing error code": {
+        "Error": {
+          "_ at http://www.jerusalemcafeindy.com": {
+            "count": 2
+          }
+        }
+      }
+    },
+    "C:\\Users\\HP\\Downloads\\crawler\\node_modules\\@crawlee\\basic\\internals\\basic-crawler.js:835:19": {
+      "missing error code": {
+        "Error": {
+          "Request blocked - received 403 status code.": {
+            "count": 2
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"id": "maZV8m2UfOnCi0u",
+	"json": "{\"id\":\"maZV8m2UfOnCi0u\",\"url\":\"https://indianapolismexicanrestaurant.com\",\"uniqueKey\":\"https://indianapolismexicanrestaurant.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina\",\"title\":\"Cinco de Mayo Cantina\",\"phone\":\"(317) 215-4862\",\"address\":\"7710 South Meridian St Indianapolis, IN 46217\",\"website\":\"https://indianapolismexicanrestaurant.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099821084,
+	"retryCount": 0,
+	"uniqueKey": "https://indianapolismexicanrestaurant.com",
+	"url": "https://indianapolismexicanrestaurant.com"
+}

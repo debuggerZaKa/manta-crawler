@@ -1,0 +1,9 @@
+{
+	"id": "QtZzOUO7Q54inKE",
+	"json": "{\"id\":\"QtZzOUO7Q54inKE\",\"url\":\"https://sushiindianapolis.com/\",\"uniqueKey\":\"https://sushiindianapolis.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wl5lh/mt-fuji\",\"title\":\"Mt Fuji\",\"phone\":\"(317) 600-3158\",\"address\":\"49 W Maryland St Unit C12, Indianapolis, IN 46204\",\"website\":\"https://sushiindianapolis.com/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099585567,
+	"retryCount": 0,
+	"uniqueKey": "https://sushiindianapolis.com",
+	"url": "https://sushiindianapolis.com/"
+}

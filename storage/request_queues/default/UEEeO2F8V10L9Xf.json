@@ -1,0 +1,9 @@
+{
+	"id": "UEEeO2F8V10L9Xf",
+	"json": "{\"id\":\"UEEeO2F8V10L9Xf\",\"url\":\"https://www.starbucks.com/store-locator/store/10610/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/10610\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r6mb/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 816-6279\",\"address\":\"9545 North Meridian Street Indianapolis, IN 46260\",\"website\":\"https://www.starbucks.com/store-locator/store/10610/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099701717,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/10610",
+	"url": "https://www.starbucks.com/store-locator/store/10610/"
+}

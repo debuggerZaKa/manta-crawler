@@ -1,0 +1,9 @@
+{
+	"id": "13KhZE1y2ocdUgB",
+	"json": "{\"id\":\"13KhZE1y2ocdUgB\",\"url\":\"https://www.manta.com/c/m1r87cd/ruby-tuesday\",\"loadedUrl\":\"https://www.manta.com/c/m1r87cd/ruby-tuesday\",\"uniqueKey\":\"https://www.manta.com/c/m1r87cd/ruby-tuesday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:35:08.270Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1r87cd/ruby-tuesday",
+	"url": "https://www.manta.com/c/m1r87cd/ruby-tuesday"
+}

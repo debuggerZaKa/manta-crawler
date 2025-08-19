@@ -1,0 +1,9 @@
+{
+	"id": "smYBsEifzWhRskO",
+	"json": "{\"id\":\"smYBsEifzWhRskO\",\"url\":\"https://www.starbucks.com/store-locator/store/6961/\",\"loadedUrl\":\"https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/6961\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mtxpf0t/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 259-8129\",\"address\":\"5601 North Illinois Street Indianapolis, IN 46208\",\"website\":\"https://www.starbucks.com/store-locator/store/6961/\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:33:32.376Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/6961",
+	"url": "https://www.starbucks.com/store-locator/store/6961/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6slzp6gyPcbTPFw",
+	"json": "{\"id\":\"6slzp6gyPcbTPFw\",\"url\":\"https://tacosindianapolis.com\",\"uniqueKey\":\"https://tacosindianapolis.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wks1f/mota-tacos\",\"title\":\"Mota Tacos\",\"phone\":\"(317) 830-8470\",\"address\":\"4375 Kentucky Ave b, Indianapolis, IN 46221\",\"website\":\"https://tacosindianapolis.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099837576,
+	"retryCount": 0,
+	"uniqueKey": "https://tacosindianapolis.com",
+	"url": "https://tacosindianapolis.com"
+}

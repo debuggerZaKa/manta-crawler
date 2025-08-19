@@ -1,0 +1,9 @@
+{
+	"id": "QY4vKEm48xagpKO",
+	"json": "{\"id\":\"QY4vKEm48xagpKO\",\"url\":\"https://www.redlobster.com/seafood-restaurants/locations/in/indianapolis/6410-e-82nd-street\",\"uniqueKey\":\"https://www.redlobster.com/seafood-restaurants/locations/in/indianapolis/6410-e-82nd-street\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7t5b9/red-lobster\",\"title\":\"Red Lobster\",\"phone\":\"(317) 842-8871\",\"address\":\"6410 East 82nd Street Indianapolis, IN 46250\",\"website\":\"https://www.redlobster.com/seafood-restaurants/locations/in/indianapolis/6410-e-82nd-street\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099466864,
+	"retryCount": 0,
+	"uniqueKey": "https://www.redlobster.com/seafood-restaurants/locations/in/indianapolis/6410-e-82nd-street",
+	"url": "https://www.redlobster.com/seafood-restaurants/locations/in/indianapolis/6410-e-82nd-street"
+}

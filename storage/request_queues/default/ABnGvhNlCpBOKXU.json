@@ -1,0 +1,9 @@
+{
+	"id": "ABnGvhNlCpBOKXU",
+	"json": "{\"id\":\"ABnGvhNlCpBOKXU\",\"url\":\"https://www.starbucks.com/store-locator/store/1010269\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1010269\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rq8x/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 842-3225\",\"address\":\"6714 East 82nd Street Indianapolis, IN 46250\",\"website\":\"https://www.starbucks.com/store-locator/store/1010269\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099646242,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1010269",
+	"url": "https://www.starbucks.com/store-locator/store/1010269"
+}

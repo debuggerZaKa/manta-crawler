@@ -1,0 +1,9 @@
+{
+	"id": "8HkyIRhEBJyvLSp",
+	"json": "{\"id\":\"8HkyIRhEBJyvLSp\",\"url\":\"https://www.starbucks.com/store-locator/store/17945\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/17945\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mthq0hh/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 621-9806\",\"address\":\"7150 Clearvista Drive Indianapolis, IN 46256\",\"website\":\"https://www.starbucks.com/store-locator/store/17945\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099769515,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/17945",
+	"url": "https://www.starbucks.com/store-locator/store/17945"
+}

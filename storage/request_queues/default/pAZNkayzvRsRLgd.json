@@ -1,0 +1,9 @@
+{
+	"id": "pAZNkayzvRsRLgd",
+	"json": "{\"id\":\"pAZNkayzvRsRLgd\",\"url\":\"https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers\",\"loadedUrl\":\"https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers\",\"uniqueKey\":\"https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:45:17.963Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers",
+	"url": "https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers"
+}

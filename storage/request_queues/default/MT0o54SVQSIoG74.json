@@ -1,0 +1,9 @@
+{
+	"id": "MT0o54SVQSIoG74",
+	"json": "{\"id\":\"MT0o54SVQSIoG74\",\"url\":\"https://www.starbucks.ca/store-locator/store/1038403\",\"uniqueKey\":\"https://www.starbucks.ca/store-locator/store/1038403\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1w0zw5/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(463) 426-5038\",\"address\":\"5420 East Thompson Road Indianapolis, IN 46237\",\"website\":\"https://www.starbucks.ca/store-locator/store/1038403\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099297168,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.ca/store-locator/store/1038403",
+	"url": "https://www.starbucks.ca/store-locator/store/1038403"
+}

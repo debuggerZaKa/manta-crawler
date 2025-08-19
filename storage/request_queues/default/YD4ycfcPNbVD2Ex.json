@@ -1,0 +1,9 @@
+{
+	"id": "YD4ycfcPNbVD2Ex",
+	"json": "{\"id\":\"YD4ycfcPNbVD2Ex\",\"url\":\"https://www.starbucks.com/store-locator/store/1021734\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1021734\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r05c/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 885-7604\",\"address\":\"8817 US 31 South Indianapolis, IN 46227\",\"website\":\"https://www.starbucks.com/store-locator/store/1021734\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099622419,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1021734",
+	"url": "https://www.starbucks.com/store-locator/store/1021734"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wvTGoMpuOrRyS9h",
+	"json": "{\"id\":\"wvTGoMpuOrRyS9h\",\"url\":\"http://indianapolishalalfoodrestaurant.com\",\"uniqueKey\":\"http://indianapolishalalfoodrestaurant.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk2dcck/karachi-kabab-universal-grill-shake\",\"title\":\"Karachi Kabab  - Universal Grill & Shake\",\"phone\":\"(317) 647-3069\",\"address\":\"4150 Lafayette Rd Suite H, Indianapolis, IN 46254\",\"website\":\"http://indianapolishalalfoodrestaurant.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099634332,
+	"retryCount": 0,
+	"uniqueKey": "http://indianapolishalalfoodrestaurant.com",
+	"url": "http://indianapolishalalfoodrestaurant.com"
+}

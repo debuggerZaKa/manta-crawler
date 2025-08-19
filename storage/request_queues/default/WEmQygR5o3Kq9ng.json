@@ -1,0 +1,9 @@
+{
+	"id": "WEmQygR5o3Kq9ng",
+	"json": "{\"id\":\"WEmQygR5o3Kq9ng\",\"url\":\"https://littlecaesars.com/en-us/store/7908\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/7908\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mtx0sj1/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 889-9480\",\"address\":\"2364 East Stop 11 Road Indianapolis, IN 46227\",\"website\":\"https://littlecaesars.com/en-us/store/7908\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099298152,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/7908",
+	"url": "https://littlecaesars.com/en-us/store/7908"
+}

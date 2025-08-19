@@ -1,0 +1,9 @@
+{
+	"id": "MLUwywbqroAdvHO",
+	"json": "{\"id\":\"MLUwywbqroAdvHO\",\"url\":\"http://www.loscuatesmexicanrestaurant.com/\",\"loadedUrl\":\"https://www.loscuatesmexicanrestaurant.com/\",\"uniqueKey\":\"http://www.loscuatesmexicanrestaurant.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mhpy2k0/los-cuates-mexican-restaurant\",\"title\":\"Los Cuates Mexican Restaurant\",\"phone\":\"(317) 220-8997\",\"address\":\"6429 E Washington St Indianapolis, IN 46219\",\"website\":\"http://www.loscuatesmexicanrestaurant.com/\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:25:32.751Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://www.loscuatesmexicanrestaurant.com",
+	"url": "http://www.loscuatesmexicanrestaurant.com/"
+}

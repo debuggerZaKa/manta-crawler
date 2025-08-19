@@ -1,0 +1,9 @@
+{
+	"id": "2eYrI1EZla8aiQm",
+	"json": "{\"id\":\"2eYrI1EZla8aiQm\",\"url\":\"https://www.starbucks.com/store-locator/store/13656/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/13656\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r642/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 883-2772\",\"address\":\"1011 North State Road 135 Greenwood, IN 46142\",\"website\":\"https://www.starbucks.com/store-locator/store/13656/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099626483,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/13656",
+	"url": "https://www.starbucks.com/store-locator/store/13656/"
+}

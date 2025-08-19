@@ -1,0 +1,19 @@
+{
+    "name": "manta",
+    "version": "0.0.1",
+    "type": "module",
+    "description": "This is an example of a Crawlee project.",
+    "dependencies": {
+        "crawlee": "^3.0.0",
+        "mongodb": "^6.18.0",
+        "puppeteer": "^24.11.2",
+        "puppeteer-extra": "^3.3.6",
+        "puppeteer-extra-plugin-stealth": "^2.11.2"
+    },
+    "scripts": {
+        "start": "node src/main.js",
+        "test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+    },
+    "author": "It's not you it's me",
+    "license": "ISC"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r2tl0yxNO8rYqZp",
+	"json": "{\"id\":\"r2tl0yxNO8rYqZp\",\"url\":\"https://www.starbucks.com/store-locator/store/8041/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/8041\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r65k/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 337-0169\",\"address\":\"5710 West 86th Street Indianapolis, IN 46278\",\"website\":\"https://www.starbucks.com/store-locator/store/8041/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099933251,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/8041",
+	"url": "https://www.starbucks.com/store-locator/store/8041/"
+}

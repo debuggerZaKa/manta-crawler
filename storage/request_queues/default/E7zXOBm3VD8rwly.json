@@ -1,0 +1,9 @@
+{
+	"id": "E7zXOBm3VD8rwly",
+	"json": "{\"id\":\"E7zXOBm3VD8rwly\",\"url\":\"https://www.manta.com/c/m1wks1f/mota-tacos\",\"loadedUrl\":\"https://www.manta.com/c/m1wks1f/mota-tacos\",\"uniqueKey\":\"https://www.manta.com/c/m1wks1f/mota-tacos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:43:57.580Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1wks1f/mota-tacos",
+	"url": "https://www.manta.com/c/m1wks1f/mota-tacos"
+}

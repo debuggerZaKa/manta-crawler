@@ -1,0 +1,9 @@
+{
+	"id": "CnNmpZKxXq73erm",
+	"json": "{\"id\":\"CnNmpZKxXq73erm\",\"url\":\"https://littlecaesars.com/en-us/store/8619\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/8619/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/8619\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rl85/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 897-8980\",\"address\":\"1551 North Post Road Indianapolis, IN 46219\",\"website\":\"https://littlecaesars.com/en-us/store/8619\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:30:02.790Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/8619",
+	"url": "https://littlecaesars.com/en-us/store/8619"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Wc9gToU4xMtkUnR",
+	"json": "{\"id\":\"Wc9gToU4xMtkUnR\",\"url\":\"https://www.starbucks.com/store-locator/store/1009244/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1009244\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rq8t/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 617-4390\",\"address\":\"4909 East 82nd Street Indianapolis, IN 46250\",\"website\":\"https://www.starbucks.com/store-locator/store/1009244/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099523150,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1009244",
+	"url": "https://www.starbucks.com/store-locator/store/1009244/"
+}

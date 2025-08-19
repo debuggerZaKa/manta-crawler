@@ -1,0 +1,9 @@
+{
+	"id": "f3WWNasQndg5wGh",
+	"json": "{\"id\":\"f3WWNasQndg5wGh\",\"url\":\"https://www.starbucks.com/store-locator/store/8232/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/8232\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rzd7/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 575-9053\",\"address\":\"8702 Keystone Crossing Indianapolis, IN 46240\",\"website\":\"https://www.starbucks.com/store-locator/store/8232/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099584992,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/8232",
+	"url": "https://www.starbucks.com/store-locator/store/8232/"
+}

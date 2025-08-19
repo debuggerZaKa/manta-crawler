@@ -1,0 +1,9 @@
+{
+	"id": "1eyeHHlMr21ESAK",
+	"json": "{\"id\":\"1eyeHHlMr21ESAK\",\"url\":\"https://www.starbucks.com/store-locator/store/1029937\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1029937\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk70c4y/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 605-5639\",\"address\":\"1244 West 86th Street Indianapolis, IN 46260\",\"website\":\"https://www.starbucks.com/store-locator/store/1029937\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099534096,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1029937",
+	"url": "https://www.starbucks.com/store-locator/store/1029937"
+}

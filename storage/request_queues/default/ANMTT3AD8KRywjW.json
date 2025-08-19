@@ -1,0 +1,9 @@
+{
+	"id": "ANMTT3AD8KRywjW",
+	"json": "{\"id\":\"ANMTT3AD8KRywjW\",\"url\":\"https://www.zaxbys.com/locations/in/greenwood/254-marlin-dr/\",\"uniqueKey\":\"https://www.zaxbys.com/locations/in/greenwood/254-marlin-dr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk798n8/zaxbys-chicken-fingers-buffalo-wings\",\"title\":\"Zaxbys Chicken Fingers & Buffalo Wings\",\"phone\":\"(317) 497-8888\",\"address\":\"254 Marlin Drive Greenwood, IN 46142\",\"website\":\"https://www.zaxbys.com/locations/in/greenwood/254-marlin-dr/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099753809,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zaxbys.com/locations/in/greenwood/254-marlin-dr",
+	"url": "https://www.zaxbys.com/locations/in/greenwood/254-marlin-dr/"
+}

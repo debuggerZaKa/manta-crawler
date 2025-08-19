@@ -1,0 +1,9 @@
+{
+	"id": "1OioTVr5bFUs8RR",
+	"json": "{\"id\":\"1OioTVr5bFUs8RR\",\"url\":\"https://www.starbucks.com/store-locator/store/14612/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/14612\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r6hs/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 253-2174\",\"address\":\"5015 East 56th Street Indianapolis, IN 46226\",\"website\":\"https://www.starbucks.com/store-locator/store/14612/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099210789,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/14612",
+	"url": "https://www.starbucks.com/store-locator/store/14612/"
+}

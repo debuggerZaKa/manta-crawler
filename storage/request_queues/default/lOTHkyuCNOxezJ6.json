@@ -1,0 +1,9 @@
+{
+	"id": "lOTHkyuCNOxezJ6",
+	"json": "{\"id\":\"lOTHkyuCNOxezJ6\",\"url\":\"https://www.starbucks.com/store-locator/store/1027514\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1027514\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1rrhx2/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 262-5215\",\"address\":\"227 West Michigan Street Indianapolis, IN 46204\",\"website\":\"https://www.starbucks.com/store-locator/store/1027514\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099284977,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1027514",
+	"url": "https://www.starbucks.com/store-locator/store/1027514"
+}

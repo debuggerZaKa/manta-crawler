@@ -1,0 +1,9 @@
+{
+	"id": "DiIE1LKDBuTPAtO",
+	"json": "{\"id\":\"DiIE1LKDBuTPAtO\",\"url\":\"https://www.starbucks.com/store-locator/store/10009\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/10009\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wry0b/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 626-5547\",\"address\":\"7800 Col H Weir Cook Memorial Drive Indianapolis, IN 46241\",\"website\":\"https://www.starbucks.com/store-locator/store/10009\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099635873,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/10009",
+	"url": "https://www.starbucks.com/store-locator/store/10009"
+}

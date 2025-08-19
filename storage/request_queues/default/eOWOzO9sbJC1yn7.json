@@ -1,0 +1,9 @@
+{
+	"id": "eOWOzO9sbJC1yn7",
+	"json": "{\"id\":\"eOWOzO9sbJC1yn7\",\"url\":\"http://www.elpalaciodeltaco.com\",\"uniqueKey\":\"http://www.elpalaciodeltaco.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mkhnl0r/el-palacio-del-taco\",\"title\":\"El Palacio del Taco\",\"phone\":\"(317) 600-3321\",\"address\":\"2440 Lafayette Rd, Ste 3 Indianapolis, IN 46222\",\"website\":\"http://www.elpalaciodeltaco.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099863339,
+	"retryCount": 0,
+	"uniqueKey": "http://www.elpalaciodeltaco.com",
+	"url": "http://www.elpalaciodeltaco.com"
+}

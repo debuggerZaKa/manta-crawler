@@ -1,0 +1,9 @@
+{
+	"id": "VOvdEUT6tmPBypY",
+	"json": "{\"id\":\"VOvdEUT6tmPBypY\",\"url\":\"https://www.manta.com/c/m1rftbf/dave-s-hot-chicken\",\"loadedUrl\":\"https://www.manta.com/c/m1rftbf/dave-s-hot-chicken\",\"uniqueKey\":\"https://www.manta.com/c/m1rftbf/dave-s-hot-chicken\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:22:34.005Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1rftbf/dave-s-hot-chicken",
+	"url": "https://www.manta.com/c/m1rftbf/dave-s-hot-chicken"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3AS94t2QlLLzJNM",
+	"json": "{\"id\":\"3AS94t2QlLLzJNM\",\"url\":\"https://www.manta.com/c/mkwrwly/taqueria-la-furia\",\"loadedUrl\":\"https://www.manta.com/c/mkwrwly/taqueria-la-furia\",\"uniqueKey\":\"https://www.manta.com/c/mkwrwly/taqueria-la-furia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:39:59.469Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mkwrwly/taqueria-la-furia",
+	"url": "https://www.manta.com/c/mkwrwly/taqueria-la-furia"
+}

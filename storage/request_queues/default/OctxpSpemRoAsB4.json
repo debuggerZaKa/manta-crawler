@@ -1,0 +1,9 @@
+{
+	"id": "OctxpSpemRoAsB4",
+	"json": "{\"id\":\"OctxpSpemRoAsB4\",\"url\":\"https://www.starbucks.com/store-locator/store/1006529\",\"loadedUrl\":\"https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1006529\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz75/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 880-5673\",\"address\":\"640 Eskenazi Avenue Indianapolis, IN 46123\",\"website\":\"https://www.starbucks.com/store-locator/store/1006529\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:32:02.276Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1006529",
+	"url": "https://www.starbucks.com/store-locator/store/1006529"
+}

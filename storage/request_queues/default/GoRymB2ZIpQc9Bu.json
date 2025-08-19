@@ -1,0 +1,9 @@
+{
+	"id": "GoRymB2ZIpQc9Bu",
+	"json": "{\"id\":\"GoRymB2ZIpQc9Bu\",\"url\":\"https://www.manta.com/c/mm0bq1s/red-lobster\",\"loadedUrl\":\"https://www.manta.com/c/mm0bq1s/red-lobster\",\"uniqueKey\":\"https://www.manta.com/c/mm0bq1s/red-lobster\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:21:52.351Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mm0bq1s/red-lobster",
+	"url": "https://www.manta.com/c/mm0bq1s/red-lobster"
+}

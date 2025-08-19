@@ -1,0 +1,9 @@
+{
+	"id": "dzREnetsSCGt5vJ",
+	"json": "{\"id\":\"dzREnetsSCGt5vJ\",\"url\":\"https://www.eddiemerlots.com/indianapolis/\",\"uniqueKey\":\"https://www.eddiemerlots.com/indianapolis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mmg9xdw/eddie-merlot-s\",\"title\":\"Eddie Merlot's\",\"phone\":\"(317) 846-8303\",\"address\":\"3645 East 96th Street Indianapolis, IN 46240\",\"website\":\"https://www.eddiemerlots.com/indianapolis/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099647224,
+	"retryCount": 0,
+	"uniqueKey": "https://www.eddiemerlots.com/indianapolis",
+	"url": "https://www.eddiemerlots.com/indianapolis/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZjuBUjfT2F33y1V",
+	"json": "{\"id\":\"ZjuBUjfT2F33y1V\",\"url\":\"https://www.ocharleys.com/\",\"uniqueKey\":\"https://www.ocharleys.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar\",\"title\":\"O'Charley's Restaurant & Bar\",\"phone\":\"(317) 782-0818\",\"address\":\"6930 South Emerson Avenue Indianapolis, IN 46237\",\"website\":\"https://www.ocharleys.com/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099284289,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ocharleys.com",
+	"url": "https://www.ocharleys.com/"
+}

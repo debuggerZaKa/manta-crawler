@@ -1,0 +1,9 @@
+{
+	"id": "vZaeP2bP5syZbLe",
+	"json": "{\"id\":\"vZaeP2bP5syZbLe\",\"url\":\"https://www.manta.com/c/mmq1c9g/central-restaurant-products\",\"loadedUrl\":\"https://www.manta.com/c/mmq1c9g/central-restaurant-products\",\"uniqueKey\":\"https://www.manta.com/c/mmq1c9g/central-restaurant-products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:45:17.612Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mmq1c9g/central-restaurant-products",
+	"url": "https://www.manta.com/c/mmq1c9g/central-restaurant-products"
+}

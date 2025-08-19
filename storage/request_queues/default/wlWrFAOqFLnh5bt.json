@@ -1,0 +1,9 @@
+{
+	"id": "wlWrFAOqFLnh5bt",
+	"json": "{\"id\":\"wlWrFAOqFLnh5bt\",\"url\":\"https://www.starbucks.com/store-locator/store/12853/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/12853\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rzss/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 273-1860\",\"address\":\"10861 Rockville Road Avon, IN 46123\",\"website\":\"https://www.starbucks.com/store-locator/store/12853/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099597240,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/12853",
+	"url": "https://www.starbucks.com/store-locator/store/12853/"
+}

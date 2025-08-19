@@ -1,0 +1,9 @@
+{
+	"id": "H7ff1Z9nfOZUasM",
+	"json": "{\"id\":\"H7ff1Z9nfOZUasM\",\"url\":\"https://www.opitalianindy.com/\",\"loadedUrl\":\"https://www.opitalianindy.com/\",\"uniqueKey\":\"https://www.opitalianindy.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1rkjt3/op-italian\",\"title\":\"OP Italian\",\"phone\":\"(317) 860-5777\",\"address\":\"10 South West Street Indianapolis, IN 46204\",\"website\":\"https://www.opitalianindy.com/\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:32:53.267Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.opitalianindy.com",
+	"url": "https://www.opitalianindy.com/"
+}

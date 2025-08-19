@@ -1,0 +1,9 @@
+{
+	"id": "GXVTEfJ879NHbqr",
+	"json": "{\"id\":\"GXVTEfJ879NHbqr\",\"url\":\"https://www.starbucks.com/store-locator/store/10433/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/10433\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz1p/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 578-0438\",\"address\":\"6920 Lake Plaza Drive Indianapolis, IN 46220\",\"website\":\"https://www.starbucks.com/store-locator/store/10433/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099336485,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/10433",
+	"url": "https://www.starbucks.com/store-locator/store/10433/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Sw5ioLNqRIlOYLH",
+	"json": "{\"id\":\"Sw5ioLNqRIlOYLH\",\"url\":\"https://littlecaesars.com/en-us/store/10841\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/10841/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/10841\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rls3/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 786-9130\",\"address\":\"3400 South East Street Indianapolis, IN 46227\",\"website\":\"https://littlecaesars.com/en-us/store/10841\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:27:42.896Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/10841",
+	"url": "https://littlecaesars.com/en-us/store/10841"
+}

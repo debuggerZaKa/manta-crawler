@@ -1,0 +1,9 @@
+{
+	"id": "mOcFg7L7YDIkZuN",
+	"json": "{\"id\":\"mOcFg7L7YDIkZuN\",\"url\":\"https://littlecaesars.com/en-us/store/10411\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/10411/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/10411\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mhxwhz8/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 808-5959\",\"address\":\"2181 North Meridian Street Indianapolis, IN 46202\",\"website\":\"https://littlecaesars.com/en-us/store/10411\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:28:57.115Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/10411",
+	"url": "https://littlecaesars.com/en-us/store/10411"
+}

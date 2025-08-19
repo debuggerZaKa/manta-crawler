@@ -1,0 +1,9 @@
+{
+	"id": "UDc7JFOnfinAlYg",
+	"json": "{\"id\":\"UDc7JFOnfinAlYg\",\"url\":\"https://www.manta.com/c/mr48b5s/little-caesars-pizza\",\"uniqueKey\":\"https://www.manta.com/c/mr48b5s/little-caesars-pizza\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\"}}",
+	"method": "GET",
+	"orderNo": 1755099980484,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mr48b5s/little-caesars-pizza",
+	"url": "https://www.manta.com/c/mr48b5s/little-caesars-pizza"
+}

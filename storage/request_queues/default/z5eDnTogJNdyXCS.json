@@ -1,0 +1,9 @@
+{
+	"id": "z5eDnTogJNdyXCS",
+	"json": "{\"id\":\"z5eDnTogJNdyXCS\",\"url\":\"https://www.starbucks.com/store-locator/store/12599/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/12599\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7jmkf/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 788-9672\",\"address\":\"5943 South East Street Indianapolis, IN 46227\",\"website\":\"https://www.starbucks.com/store-locator/store/12599/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099296686,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/12599",
+	"url": "https://www.starbucks.com/store-locator/store/12599/"
+}

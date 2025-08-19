@@ -1,0 +1,9 @@
+{
+	"id": "rxBuGUsviKBNDV9",
+	"json": "{\"id\":\"rxBuGUsviKBNDV9\",\"url\":\"https://raisingcanes.com/locations/c847/\",\"uniqueKey\":\"https://raisingcanes.com/locations/c847\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1r8nk1/raising-cane-s-chicken-fingers\",\"title\":\"Raising Cane's Chicken Fingers\",\"phone\":\"(317) 308-4037\",\"address\":\"8970 East US Highway 36 Avon, IN 46123\",\"website\":\"https://raisingcanes.com/locations/c847/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099917956,
+	"retryCount": 0,
+	"uniqueKey": "https://raisingcanes.com/locations/c847",
+	"url": "https://raisingcanes.com/locations/c847/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "UZQ5cwsEmYKQHpJ",
+	"json": "{\"id\":\"UZQ5cwsEmYKQHpJ\",\"url\":\"https://www.starbucks.com/store-locator/store/1013078\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1013078\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz5c/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 887-5745\",\"address\":\"3100 Meridian Parke Drive Greenwood, IN 46142\",\"website\":\"https://www.starbucks.com/store-locator/store/1013078\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099916214,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1013078",
+	"url": "https://www.starbucks.com/store-locator/store/1013078"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "92UKURuAUSXbMxq",
+	"json": "{\"id\":\"92UKURuAUSXbMxq\",\"url\":\"http://indianapolisjapaneserestaurant.com\",\"uniqueKey\":\"http://indianapolisjapaneserestaurant.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk2nvm9/mizu-sushi-hibachi-express\",\"title\":\"Mizu Sushi & Hibachi Express\",\"phone\":\"(317) 932-8508\",\"address\":\"1350 West Southport Rd Unit D Indianapolis, IN 46217\",\"website\":\"http://indianapolisjapaneserestaurant.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099685360,
+	"retryCount": 0,
+	"uniqueKey": "http://indianapolisjapaneserestaurant.com",
+	"url": "http://indianapolisjapaneserestaurant.com"
+}

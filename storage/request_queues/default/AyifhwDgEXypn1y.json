@@ -1,0 +1,9 @@
+{
+	"id": "AyifhwDgEXypn1y",
+	"json": "{\"id\":\"AyifhwDgEXypn1y\",\"url\":\"https://littlecaesars.com/en-us/store/10806\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/10806\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7wqh3/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 897-5541\",\"address\":\"10745 East Washington Street Indianapolis, IN 46229\",\"website\":\"https://littlecaesars.com/en-us/store/10806\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099307819,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/10806",
+	"url": "https://littlecaesars.com/en-us/store/10806"
+}

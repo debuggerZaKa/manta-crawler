@@ -1,0 +1,9 @@
+{
+	"id": "LC3jMdftwWAIbB2",
+	"json": "{\"id\":\"LC3jMdftwWAIbB2\",\"url\":\"https://www.manta.com/c/m1r6689/terramar-mariscos-y-carnes\",\"loadedUrl\":\"https://www.manta.com/c/m1r6689/terramar-mariscos-y-carnes\",\"uniqueKey\":\"https://www.manta.com/c/m1r6689/terramar-mariscos-y-carnes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:43:12.968Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1r6689/terramar-mariscos-y-carnes",
+	"url": "https://www.manta.com/c/m1r6689/terramar-mariscos-y-carnes"
+}

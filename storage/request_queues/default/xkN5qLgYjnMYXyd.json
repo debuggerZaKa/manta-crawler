@@ -1,0 +1,9 @@
+{
+	"id": "xkN5qLgYjnMYXyd",
+	"json": "{\"id\":\"xkN5qLgYjnMYXyd\",\"url\":\"https://anotherbrokenegg.com/location/indianapolis-in-clearwater\",\"uniqueKey\":\"https://anotherbrokenegg.com/location/indianapolis-in-clearwater\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1rrwd9/another-broken-egg-cafe\",\"title\":\"Another Broken Egg Cafe\",\"phone\":\"(317) 827-6926\",\"address\":\"5025 East 82nd Street Indianapolis, IN 46250\",\"website\":\"https://anotherbrokenegg.com/location/indianapolis-in-clearwater\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099486400,
+	"retryCount": 0,
+	"uniqueKey": "https://anotherbrokenegg.com/location/indianapolis-in-clearwater",
+	"url": "https://anotherbrokenegg.com/location/indianapolis-in-clearwater"
+}

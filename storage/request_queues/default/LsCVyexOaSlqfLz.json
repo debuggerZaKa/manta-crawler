@@ -1,0 +1,9 @@
+{
+	"id": "LsCVyexOaSlqfLz",
+	"json": "{\"id\":\"LsCVyexOaSlqfLz\",\"url\":\"https://anotherbrokenegg.com/location/indianapolis-in-meridian-street\",\"uniqueKey\":\"https://anotherbrokenegg.com/location/indianapolis-in-meridian-street\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7h2cj/another-broken-egg-cafe\",\"title\":\"Another Broken Egg Cafe\",\"phone\":\"(317) 818-1700\",\"address\":\"9435 North Meridian Street Indianapolis, IN 46260\",\"website\":\"https://anotherbrokenegg.com/location/indianapolis-in-meridian-street\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099777973,
+	"retryCount": 0,
+	"uniqueKey": "https://anotherbrokenegg.com/location/indianapolis-in-meridian-street",
+	"url": "https://anotherbrokenegg.com/location/indianapolis-in-meridian-street"
+}

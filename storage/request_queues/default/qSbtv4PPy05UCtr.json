@@ -1,0 +1,9 @@
+{
+	"id": "qSbtv4PPy05UCtr",
+	"json": "{\"id\":\"qSbtv4PPy05UCtr\",\"url\":\"https://littlecaesars.com/en-us/store/9640\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/9640/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/9640\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7w6ks/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 644-3964\",\"address\":\"4477 East 10th Street Indianapolis, IN 46201\",\"website\":\"https://littlecaesars.com/en-us/store/9640\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:27:42.907Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/9640",
+	"url": "https://littlecaesars.com/en-us/store/9640"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ewnxGEoYuKEn66O",
+	"json": "{\"id\":\"ewnxGEoYuKEn66O\",\"url\":\"https://www.starbucks.com/store-locator/store/12303/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/12303\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mm8t466/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 318-4155\",\"address\":\"7425 North Keystone Avenue Indianapolis, IN 46240\",\"website\":\"https://www.starbucks.com/store-locator/store/12303/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099319914,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/12303",
+	"url": "https://www.starbucks.com/store-locator/store/12303/"
+}

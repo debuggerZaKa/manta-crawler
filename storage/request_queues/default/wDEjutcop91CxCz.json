@@ -1,0 +1,9 @@
+{
+	"id": "wDEjutcop91CxCz",
+	"json": "{\"id\":\"wDEjutcop91CxCz\",\"url\":\"https://littlecaesars.com/en-us/store/7852\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/7852/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/7852\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rl8s/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 241-2700\",\"address\":\"5313 West 10th Street Indianapolis, IN 46224\",\"website\":\"https://littlecaesars.com/en-us/store/7852\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:26:53.393Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/7852",
+	"url": "https://littlecaesars.com/en-us/store/7852"
+}

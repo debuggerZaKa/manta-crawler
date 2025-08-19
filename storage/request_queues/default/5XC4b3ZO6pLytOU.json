@@ -1,0 +1,9 @@
+{
+	"id": "5XC4b3ZO6pLytOU",
+	"json": "{\"id\":\"5XC4b3ZO6pLytOU\",\"url\":\"https://16th.gallerypastry.com\",\"uniqueKey\":\"https://16th.gallerypastry.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wkw5q/gallery-on-16th\",\"title\":\"Gallery on 16th\",\"phone\":\"(317) 820-5526\",\"address\":\"319 East 16th Street Suite 101, Indianapolis, IN 46202\",\"website\":\"https://16th.gallerypastry.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099934328,
+	"retryCount": 0,
+	"uniqueKey": "https://16th.gallerypastry.com",
+	"url": "https://16th.gallerypastry.com"
+}

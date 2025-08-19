@@ -1,0 +1,9 @@
+{
+	"id": "VdJBgts7bsKdxjq",
+	"json": "{\"id\":\"VdJBgts7bsKdxjq\",\"url\":\"https://www.starbucks.com/store-locator/store/1028450\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1028450\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7ryql/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 494-2123\",\"address\":\"8855 South Emerson Avenue Indianapolis, IN 46237\",\"website\":\"https://www.starbucks.com/store-locator/store/1028450\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099647983,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1028450",
+	"url": "https://www.starbucks.com/store-locator/store/1028450"
+}

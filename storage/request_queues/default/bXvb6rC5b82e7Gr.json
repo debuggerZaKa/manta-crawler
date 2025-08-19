@@ -1,0 +1,9 @@
+{
+	"id": "bXvb6rC5b82e7Gr",
+	"json": "{\"id\":\"bXvb6rC5b82e7Gr\",\"url\":\"https://www.starbucks.com/store-locator/store/1017789\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1017789\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r0gc/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 476-1679\",\"address\":\"6321 Crawfordsville Road Indianapolis, IN 46224\",\"website\":\"https://www.starbucks.com/store-locator/store/1017789\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099272177,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1017789",
+	"url": "https://www.starbucks.com/store-locator/store/1017789"
+}

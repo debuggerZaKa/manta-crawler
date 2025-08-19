@@ -1,0 +1,9 @@
+{
+	"id": "rOPDrtsh5Irx7cq",
+	"json": "{\"id\":\"rOPDrtsh5Irx7cq\",\"url\":\"https://www.starbucks.com/store-locator/store/1013679\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1013679\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rzpy/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 359-1161\",\"address\":\"5350 East Thompson Road Indianapolis, IN 46237\",\"website\":\"https://www.starbucks.com/store-locator/store/1013679\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099272632,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1013679",
+	"url": "https://www.starbucks.com/store-locator/store/1013679"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cDx6JLxNLWIkHFd",
+	"json": "{\"id\":\"cDx6JLxNLWIkHFd\",\"url\":\"https://www.starbucks.com/store-locator/store/18551\",\"loadedUrl\":\"https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/18551\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mbgqdns/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 940-9953\",\"address\":\"700 West Hampton Drive Indianapolis, IN 46208\",\"website\":\"https://www.starbucks.com/store-locator/store/18551\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:32:33.495Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/18551",
+	"url": "https://www.starbucks.com/store-locator/store/18551"
+}

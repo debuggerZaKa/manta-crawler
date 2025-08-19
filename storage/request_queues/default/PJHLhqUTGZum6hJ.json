@@ -1,0 +1,9 @@
+{
+	"id": "PJHLhqUTGZum6hJ",
+	"json": "{\"id\":\"PJHLhqUTGZum6hJ\",\"url\":\"https://www.starbucks.com/store-locator/store/13815/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/13815\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz0y/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 328-0247\",\"address\":\"5550 Lafayette Road Indianapolis, IN 46254\",\"website\":\"https://www.starbucks.com/store-locator/store/13815/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099335875,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/13815",
+	"url": "https://www.starbucks.com/store-locator/store/13815/"
+}

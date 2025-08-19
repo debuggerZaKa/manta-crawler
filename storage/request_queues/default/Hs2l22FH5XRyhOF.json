@@ -1,0 +1,9 @@
+{
+	"id": "Hs2l22FH5XRyhOF",
+	"json": "{\"id\":\"Hs2l22FH5XRyhOF\",\"url\":\"https://www.zaxbys.com/locations/in/greenwood/1274-n-emerson-ave/\",\"uniqueKey\":\"https://www.zaxbys.com/locations/in/greenwood/1274-n-emerson-ave\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk798q8/zaxbys-chicken-fingers-buffalo-wings\",\"title\":\"Zaxbys Chicken Fingers & Buffalo Wings\",\"phone\":\"(317) 497-8190\",\"address\":\"1274 North Emerson Avenue Greenwood, IN 46143\",\"website\":\"https://www.zaxbys.com/locations/in/greenwood/1274-n-emerson-ave/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099493657,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zaxbys.com/locations/in/greenwood/1274-n-emerson-ave",
+	"url": "https://www.zaxbys.com/locations/in/greenwood/1274-n-emerson-ave/"
+}

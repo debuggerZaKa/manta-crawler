@@ -1,0 +1,9 @@
+{
+	"id": "4EcAGCGmtyDB2Hs",
+	"json": "{\"id\":\"4EcAGCGmtyDB2Hs\",\"url\":\"https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina\",\"loadedUrl\":\"https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina\",\"uniqueKey\":\"https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:43:41.087Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina",
+	"url": "https://www.manta.com/c/m1r8vtj/cinco-de-mayo-cantina"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DM0jMZeIP21tGj5",
+	"json": "{\"id\":\"DM0jMZeIP21tGj5\",\"url\":\"https://littlecaesars.com/en-us/store/8432\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/8432/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/8432\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mtx0sjc/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 291-6100\",\"address\":\"5621 West 38th Street Indianapolis, IN 46254\",\"website\":\"https://littlecaesars.com/en-us/store/8432\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:29:50.513Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/8432",
+	"url": "https://littlecaesars.com/en-us/store/8432"
+}

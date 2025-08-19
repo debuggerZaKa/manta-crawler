@@ -1,0 +1,9 @@
+{
+	"id": "hNimsVvPWQO5gOr",
+	"json": "{\"id\":\"hNimsVvPWQO5gOr\",\"url\":\"https://littlecaesars.com/en-us/store/20839\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/20839\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1wgn3p/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(219) 300-4550\",\"address\":\"5868 East 71st Street Indianapolis, IN 46220\",\"website\":\"https://littlecaesars.com/en-us/store/20839\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099285341,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/20839",
+	"url": "https://littlecaesars.com/en-us/store/20839"
+}

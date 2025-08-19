@@ -1,0 +1,9 @@
+{
+	"id": "plgT2ZD1gukvXkW",
+	"json": "{\"id\":\"plgT2ZD1gukvXkW\",\"url\":\"https://littlecaesars.com/en-us/store/8875\",\"loadedUrl\":\"https://littlecaesars.com/en-us/store/8875/\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/8875\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mry4pmd/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 883-4100\",\"address\":\"6845 Bluff Road Indianapolis, IN 46217\",\"website\":\"https://littlecaesars.com/en-us/store/8875\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:30:56.538Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/8875",
+	"url": "https://littlecaesars.com/en-us/store/8875"
+}

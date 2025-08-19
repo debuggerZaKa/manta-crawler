@@ -1,0 +1,9 @@
+{
+	"id": "zwt2gBiRWNmF135",
+	"json": "{\"id\":\"zwt2gBiRWNmF135\",\"url\":\"https://www.starbucks.ca/store-locator/store/1025655\",\"uniqueKey\":\"https://www.starbucks.ca/store-locator/store/1025655\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1r4l4y/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(463) 224-8300\",\"address\":\"9305 Michigan Road Indianapolis, IN 46268\",\"website\":\"https://www.starbucks.ca/store-locator/store/1025655\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099933245,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.ca/store-locator/store/1025655",
+	"url": "https://www.starbucks.ca/store-locator/store/1025655"
+}

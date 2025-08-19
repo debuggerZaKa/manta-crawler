@@ -1,0 +1,9 @@
+{
+	"id": "dZFpv9DGyNXuKRi",
+	"json": "{\"id\":\"dZFpv9DGyNXuKRi\",\"url\":\"https://www.manta.com/c/m1wkw5q/gallery-on-16th\",\"loadedUrl\":\"https://www.manta.com/c/m1wkw5q/gallery-on-16th\",\"uniqueKey\":\"https://www.manta.com/c/m1wkw5q/gallery-on-16th\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:45:34.332Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1wkw5q/gallery-on-16th",
+	"url": "https://www.manta.com/c/m1wkw5q/gallery-on-16th"
+}

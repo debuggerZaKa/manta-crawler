@@ -1,0 +1,9 @@
+{
+	"id": "Pbe3sVpFV5aJQkR",
+	"json": "{\"id\":\"Pbe3sVpFV5aJQkR\",\"url\":\"https://littlecaesars.com/en-us/store/8138\",\"uniqueKey\":\"https://littlecaesars.com/en-us/store/8138\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rl8k/little-caesars-pizza\",\"title\":\"Little Caesars Pizza\",\"phone\":\"(317) 291-5700\",\"address\":\"7145 North Michigan Road Indianapolis, IN 46268\",\"website\":\"https://littlecaesars.com/en-us/store/8138\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099693317,
+	"retryCount": 0,
+	"uniqueKey": "https://littlecaesars.com/en-us/store/8138",
+	"url": "https://littlecaesars.com/en-us/store/8138"
+}

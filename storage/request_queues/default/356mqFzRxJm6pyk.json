@@ -1,0 +1,9 @@
+{
+	"id": "356mqFzRxJm6pyk",
+	"json": "{\"id\":\"356mqFzRxJm6pyk\",\"url\":\"https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar\",\"loadedUrl\":\"https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar\",\"uniqueKey\":\"https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:34:44.296Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar",
+	"url": "https://www.manta.com/c/m1wxncd/o-charley-s-restaurant-bar"
+}

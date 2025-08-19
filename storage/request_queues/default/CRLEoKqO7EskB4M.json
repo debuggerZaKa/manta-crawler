@@ -1,0 +1,9 @@
+{
+	"id": "CRLEoKqO7EskB4M",
+	"json": "{\"id\":\"CRLEoKqO7EskB4M\",\"url\":\"https://www.manta.com/search?search=Restaurants&context=industry&search_source=nav&city=Indianapolis&state=Indiana&device=desktop&screenResolution=1920x1080&pg=0&radius=32\",\"uniqueKey\":\"https://www.manta.com/search?city=Indianapolis&context=industry&device=desktop&pg=0&radius=32&screenResolution=1920x1080&search=Restaurants&search_source=nav&state=Indiana\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"listing\"}}",
+	"method": "GET",
+	"orderNo": 1755098715955,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/search?city=Indianapolis&context=industry&device=desktop&pg=0&radius=32&screenResolution=1920x1080&search=Restaurants&search_source=nav&state=Indiana",
+	"url": "https://www.manta.com/search?search=Restaurants&context=industry&search_source=nav&city=Indianapolis&state=Indiana&device=desktop&screenResolution=1920x1080&pg=0&radius=32"
+}

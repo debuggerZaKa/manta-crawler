@@ -1,0 +1,9 @@
+{
+	"id": "B5jHlozBTKdIgom",
+	"json": "{\"id\":\"B5jHlozBTKdIgom\",\"url\":\"https://indianapolismexicanfood.com\",\"uniqueKey\":\"https://indianapolismexicanfood.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mmynxh3/cinco-de-mayo-cantina-2\",\"title\":\"Cinco de Mayo Cantina 2\",\"phone\":\"(317) 981-5984\",\"address\":\"6473 N Keystone Ave Indianapolis, IN 46220\",\"website\":\"https://indianapolismexicanfood.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099622940,
+	"retryCount": 0,
+	"uniqueKey": "https://indianapolismexicanfood.com",
+	"url": "https://indianapolismexicanfood.com"
+}

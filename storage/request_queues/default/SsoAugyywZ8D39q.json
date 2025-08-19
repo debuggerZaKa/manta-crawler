@@ -1,0 +1,9 @@
+{
+	"id": "SsoAugyywZ8D39q",
+	"json": "{\"id\":\"SsoAugyywZ8D39q\",\"url\":\"https://www.manta.com/c/mk7ts99/sullivan-s-steakhouse\",\"loadedUrl\":\"https://www.manta.com/c/mk7ts99/sullivan-s-steakhouse\",\"uniqueKey\":\"https://www.manta.com/c/mk7ts99/sullivan-s-steakhouse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:37:22.435Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mk7ts99/sullivan-s-steakhouse",
+	"url": "https://www.manta.com/c/mk7ts99/sullivan-s-steakhouse"
+}

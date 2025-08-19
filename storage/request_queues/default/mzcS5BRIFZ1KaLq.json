@@ -1,0 +1,9 @@
+{
+	"id": "mzcS5BRIFZ1KaLq",
+	"json": "{\"id\":\"mzcS5BRIFZ1KaLq\",\"url\":\"https://africanrestaurantindianapolis.com\",\"uniqueKey\":\"https://africanrestaurantindianapolis.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1w9m0l/mega-suya-bar-grill\",\"title\":\"Mega Suya Bar & Grill\",\"phone\":\"(317) 666-6488\",\"address\":\"3081 N High School Rd Indianapolis, IN 46224\",\"website\":\"https://africanrestaurantindianapolis.com\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099830252,
+	"retryCount": 0,
+	"uniqueKey": "https://africanrestaurantindianapolis.com",
+	"url": "https://africanrestaurantindianapolis.com"
+}

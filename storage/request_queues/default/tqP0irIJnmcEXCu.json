@@ -1,0 +1,9 @@
+{
+	"id": "tqP0irIJnmcEXCu",
+	"json": "{\"id\":\"tqP0irIJnmcEXCu\",\"url\":\"https://www.starbucks.com/store-locator/store/12854/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/12854\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz63/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 577-0692\",\"address\":\"7460 Shadeland Avenue Indianapolis, IN 46250\",\"website\":\"https://www.starbucks.com/store-locator/store/12854/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099598269,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/12854",
+	"url": "https://www.starbucks.com/store-locator/store/12854/"
+}

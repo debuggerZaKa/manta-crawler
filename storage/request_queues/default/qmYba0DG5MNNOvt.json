@@ -1,0 +1,9 @@
+{
+	"id": "qmYba0DG5MNNOvt",
+	"json": "{\"id\":\"qmYba0DG5MNNOvt\",\"url\":\"https://www.starbucks.com/store-locator/store/6902/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/6902\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mtxpfy6/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 786-0813\",\"address\":\"4601 South Emerson Avenue Indianapolis, IN 46203\",\"website\":\"https://www.starbucks.com/store-locator/store/6902/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099273370,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/6902",
+	"url": "https://www.starbucks.com/store-locator/store/6902/"
+}

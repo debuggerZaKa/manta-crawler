@@ -1,0 +1,9 @@
+{
+	"id": "jYxOtDEskTNZ18l",
+	"json": "{\"id\":\"jYxOtDEskTNZ18l\",\"url\":\"https://www.starbucks.com/store-locator/store/63086\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/63086\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7rz04/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 860-5800\",\"address\":\"10 South West Street Indianapolis, IN 46204\",\"website\":\"https://www.starbucks.com/store-locator/store/63086\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099257850,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/63086",
+	"url": "https://www.starbucks.com/store-locator/store/63086"
+}

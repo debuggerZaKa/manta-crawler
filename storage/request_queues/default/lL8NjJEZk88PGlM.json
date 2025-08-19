@@ -1,0 +1,9 @@
+{
+	"id": "lL8NjJEZk88PGlM",
+	"json": "{\"id\":\"lL8NjJEZk88PGlM\",\"url\":\"https://www.manta.com/c/m1wnypp/chuck-e-cheese\",\"loadedUrl\":\"https://www.manta.com/c/m1wnypp/chuck-e-cheese\",\"uniqueKey\":\"https://www.manta.com/c/m1wnypp/chuck-e-cheese\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:36:04.333Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1wnypp/chuck-e-cheese",
+	"url": "https://www.manta.com/c/m1wnypp/chuck-e-cheese"
+}

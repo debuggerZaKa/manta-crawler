@@ -1,0 +1,9 @@
+{
+	"id": "cPc1y0J9JWWjdDO",
+	"json": "{\"id\":\"cPc1y0J9JWWjdDO\",\"url\":\"https://www.starbucks.com/store-locator/store/1022197\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1022197\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mkr8gmd/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 297-3796\",\"address\":\"6929 West 38th Street Indianapolis, IN 46254\",\"website\":\"https://www.starbucks.com/store-locator/store/1022197\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099308254,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1022197",
+	"url": "https://www.starbucks.com/store-locator/store/1022197"
+}

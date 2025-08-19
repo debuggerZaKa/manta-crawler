@@ -1,0 +1,9 @@
+{
+	"id": "xkjbQQbiGfnBgTZ",
+	"json": "{\"id\":\"xkjbQQbiGfnBgTZ\",\"url\":\"https://www.starbucks.com/store-locator/store/14206/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/14206\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r621/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 826-8252\",\"address\":\"10800 Pendleton Pike Indianapolis, IN 46236\",\"website\":\"https://www.starbucks.com/store-locator/store/14206/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099800380,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/14206",
+	"url": "https://www.starbucks.com/store-locator/store/14206/"
+}

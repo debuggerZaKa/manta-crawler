@@ -1,0 +1,9 @@
+{
+	"id": "Hl8uxxLrMHHY6Qr",
+	"json": "{\"id\":\"Hl8uxxLrMHHY6Qr\",\"url\":\"https://www.zaxbys.com/locations/in/indianapolis/8810-wesleyan-rd/\",\"uniqueKey\":\"https://www.zaxbys.com/locations/in/indianapolis/8810-wesleyan-rd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk798dx/zaxbys-chicken-fingers-buffalo-wings\",\"title\":\"Zaxbys Chicken Fingers & Buffalo Wings\",\"phone\":\"(317) 672-2471\",\"address\":\"8810 Wesleyan Road Indianapolis, IN 46268\",\"website\":\"https://www.zaxbys.com/locations/in/indianapolis/8810-wesleyan-rd/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099458223,
+	"retryCount": 0,
+	"uniqueKey": "https://www.zaxbys.com/locations/in/indianapolis/8810-wesleyan-rd",
+	"url": "https://www.zaxbys.com/locations/in/indianapolis/8810-wesleyan-rd/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "EGUc3EavdU2Mtae",
+	"json": "{\"id\":\"EGUc3EavdU2Mtae\",\"url\":\"https://rubytuesday.com/\",\"uniqueKey\":\"https://rubytuesday.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/m1r87cd/ruby-tuesday\",\"title\":\"Ruby Tuesday\",\"phone\":\"(317) 885-5801\",\"address\":\"7940 US 31 South Indianapolis, IN 46227\",\"website\":\"https://rubytuesday.com/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099308262,
+	"retryCount": 0,
+	"uniqueKey": "https://rubytuesday.com",
+	"url": "https://rubytuesday.com/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "EKeH0vxd1mPlqQ1",
+	"json": "{\"id\":\"EKeH0vxd1mPlqQ1\",\"url\":\"https://www.manta.com/c/mtrmstv/lava-lounge\",\"loadedUrl\":\"https://www.manta.com/c/mtrmstv/lava-lounge\",\"uniqueKey\":\"https://www.manta.com/c/mtrmstv/lava-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:45:16.390Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mtrmstv/lava-lounge",
+	"url": "https://www.manta.com/c/mtrmstv/lava-lounge"
+}

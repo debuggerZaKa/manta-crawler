@@ -1,0 +1,9 @@
+{
+	"id": "DNx008St7Ykhsa6",
+	"json": "{\"id\":\"DNx008St7Ykhsa6\",\"url\":\"https://www.redlobster.com/seafood-restaurants/locations/in/avon/10189-e-us-highway-36\",\"uniqueKey\":\"https://www.redlobster.com/seafood-restaurants/locations/in/avon/10189-e-us-highway-36\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7t5vk/red-lobster\",\"title\":\"Red Lobster\",\"phone\":\"(317) 271-4906\",\"address\":\"10189 Rockville Road Avon, IN 46123\",\"website\":\"https://www.redlobster.com/seafood-restaurants/locations/in/avon/10189-e-us-highway-36\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099541301,
+	"retryCount": 0,
+	"uniqueKey": "https://www.redlobster.com/seafood-restaurants/locations/in/avon/10189-e-us-highway-36",
+	"url": "https://www.redlobster.com/seafood-restaurants/locations/in/avon/10189-e-us-highway-36"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vkbhyXNOLb5TA5B",
+	"json": "{\"id\":\"vkbhyXNOLb5TA5B\",\"url\":\"https://www.manta.com/c/mtlnkyd/thyme-to-eat-cafe-catering\",\"loadedUrl\":\"https://www.manta.com/c/mtlnkyd/thyme-to-eat-cafe-catering\",\"uniqueKey\":\"https://www.manta.com/c/mtlnkyd/thyme-to-eat-cafe-catering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:42:16.542Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mtlnkyd/thyme-to-eat-cafe-catering",
+	"url": "https://www.manta.com/c/mtlnkyd/thyme-to-eat-cafe-catering"
+}

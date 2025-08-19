@@ -1,0 +1,9 @@
+{
+	"id": "mGf2cMrnJqWtukF",
+	"json": "{\"id\":\"mGf2cMrnJqWtukF\",\"url\":\"https://www.manta.com/c/m1wl5lh/mt-fuji\",\"loadedUrl\":\"https://www.manta.com/c/m1wl5lh/mt-fuji\",\"uniqueKey\":\"https://www.manta.com/c/m1wl5lh/mt-fuji\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:39:45.570Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/m1wl5lh/mt-fuji",
+	"url": "https://www.manta.com/c/m1wl5lh/mt-fuji"
+}

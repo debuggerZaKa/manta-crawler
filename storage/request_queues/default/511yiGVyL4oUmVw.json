@@ -1,0 +1,9 @@
+{
+	"id": "511yiGVyL4oUmVw",
+	"json": "{\"id\":\"511yiGVyL4oUmVw\",\"url\":\"https://www.starbucks.com/store-locator/store/18105/\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/18105\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7r6xw/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 354-0927\",\"address\":\"5702 East Washington Street Indianapolis, IN 46219\",\"website\":\"https://www.starbucks.com/store-locator/store/18105/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099285778,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/18105",
+	"url": "https://www.starbucks.com/store-locator/store/18105/"
+}

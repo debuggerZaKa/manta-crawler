@@ -1,0 +1,9 @@
+{
+	"id": "Q4tsTZJBRRMUynY",
+	"json": "{\"id\":\"Q4tsTZJBRRMUynY\",\"url\":\"https://www.starbucks.com/store-locator/store/1028022\",\"loadedUrl\":\"https://www.starbucks.com/store-locator?map=39.635307,-101.337891,5z\",\"uniqueKey\":\"https://www.starbucks.com/store-locator/store/1028022\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mk7s00k/starbucks\",\"title\":\"Starbucks\",\"phone\":\"(317) 268-1036\",\"address\":\"5050 Cambridge Way Plainfield, IN 46168\",\"website\":\"https://www.starbucks.com/store-locator/store/1028022\",\"email\":null,\"label\":\"website_scraper\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:27:29.287Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.starbucks.com/store-locator/store/1028022",
+	"url": "https://www.starbucks.com/store-locator/store/1028022"
+}

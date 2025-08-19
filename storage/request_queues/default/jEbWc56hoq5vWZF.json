@@ -1,0 +1,9 @@
+{
+	"id": "jEbWc56hoq5vWZF",
+	"json": "{\"id\":\"jEbWc56hoq5vWZF\",\"url\":\"http://taquerialafuria.com/\",\"uniqueKey\":\"http://taquerialafuria.com\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"url\":\"https://www.manta.com/c/mkwrwly/taqueria-la-furia\",\"title\":\"Taqueria La Furia\",\"phone\":\"(317) 426-5734\",\"address\":\"3712 Lafayette Rd Suite 105 and 106 Indianapolis, IN 46222\",\"website\":\"http://taquerialafuria.com/\",\"email\":null,\"label\":\"website_scraper\"}}",
+	"method": "GET",
+	"orderNo": 1755099599466,
+	"retryCount": 0,
+	"uniqueKey": "http://taquerialafuria.com",
+	"url": "http://taquerialafuria.com/"
+}

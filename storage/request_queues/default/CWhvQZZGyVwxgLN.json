@@ -1,0 +1,9 @@
+{
+	"id": "CWhvQZZGyVwxgLN",
+	"json": "{\"id\":\"CWhvQZZGyVwxgLN\",\"url\":\"https://www.manta.com/c/mk7r6r7/starbucks\",\"uniqueKey\":\"https://www.manta.com/c/mk7r6r7/starbucks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\"}}",
+	"method": "GET",
+	"orderNo": 1755098702028,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mk7r6r7/starbucks",
+	"url": "https://www.manta.com/c/mk7r6r7/starbucks"
+}

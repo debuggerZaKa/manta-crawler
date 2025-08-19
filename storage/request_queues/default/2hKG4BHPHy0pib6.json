@@ -1,0 +1,9 @@
+{
+	"id": "2hKG4BHPHy0pib6",
+	"json": "{\"id\":\"2hKG4BHPHy0pib6\",\"url\":\"https://www.manta.com/c/mkc0hjs/red-robin-gourmet-burgers-and-brews\",\"loadedUrl\":\"https://www.manta.com/c/mkc0hjs/red-robin-gourmet-burgers-and-brews\",\"uniqueKey\":\"https://www.manta.com/c/mkc0hjs/red-robin-gourmet-burgers-and-brews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"fromListing\":true,\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-08-13T15:41:57.812Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.manta.com/c/mkc0hjs/red-robin-gourmet-burgers-and-brews",
+	"url": "https://www.manta.com/c/mkc0hjs/red-robin-gourmet-burgers-and-brews"
+}
