@@ -1,8 +1,14 @@
 
-──────────────────────────────
-        🕷️  C R A W L E R  🕷️
-──────────────────────────────
-
+```
+                                          _____ _____       __          ___      ______ _____   
+                                         / ____|  __ \     /\ \        / / |    |  ____|  __ \            
+                                        | |    | |__) |   /  \ \  /\  / /| |    | |__  | |__) | 
+                                        | |    |  _  /   / /\ \ \/  \/ / | |    |  __| |  _  /  
+                                        | |____| | \ \  / ____ \  /\  /  | |____| |____| | \ \     
+                                         \_____|_|  \_\/_/    \_\/  \/   |______|______|_|  \_\ 
+                                                         
+                                                         
+```
 
 # Manta Email Crawler
 
@@ -43,7 +49,7 @@ with stealth plugin to scrape business listings and extract emails from **Manta.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/manta-crawler.git
+git clone https://github.com/debuggerZaKa/manta-crawler.git
 cd manta-crawler
 ```
 
@@ -101,6 +107,3 @@ https://www.manta.com/c/mx12345,Best Restaurant,(317) 555-1234,"123 Main St, Ind
 - Make sure your network allows requests to external websites.
 - Always use responsibly and follow website Terms of Service.
 
-──────────────────────────────
-   Happy Crawling! 🕸️
-──────────────────────────────
